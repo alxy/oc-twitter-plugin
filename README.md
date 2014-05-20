@@ -1,4 +1,3 @@
-oc-twitter-plugin
-=================
+# OctoberCMS Twitter Plugin #
 
-A twitter integration plugin for OctoberCMS
+A twitter integration plugin for OctoberCMS.
